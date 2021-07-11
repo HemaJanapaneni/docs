@@ -34,6 +34,8 @@ Refer to this [doc](https://github.com/knative/website/blob/main/DEVELOPMENT.md)
 Source files for the documentation on the website are located within the
 [`/docs`](./docs) directory of this repo.
 
+NEW Event Trigger
+
 If you want to contribute a fix or add new content to the documentation, you can
 navigate through this repo or use the `Edit this page` on each of the pages of
 the website.
